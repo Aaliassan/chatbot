@@ -1,10 +1,10 @@
 function talk(){
     var know = {
-        "who are you" : "Hello, I'm AALI",
-        "how are you" : "Good :)",
-        "what can i do for you" : "Be with me frvr",
-        "ok" : "Thank you so much",
-        "bye" : "ok",
+        "Who are you" : "Hello, I'm AALI",
+        "How are you" : "Good :)",
+        "What can i do for you" : "Be with me frvr",
+        "Ok" : "Thank you so much",
+        "Bye" : "ok bye",
     }
     var user = document.querySelector("input").value;
     console.log(user)

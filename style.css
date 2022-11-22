@@ -43,12 +43,18 @@ h2 {
     background-color: yellow;
     width: 100%;
     height: 100%;
+    /* font-size: 25px; */
+    border-radius: 20px;
+   
 }
 
 .glass .input input {
     width: 100%;
     height: 100%;
     padding: 5px;
+    /* font-size: 30px; */
+    border-radius: 20px;
+
 }
 
 .glass #chatlog {
@@ -59,5 +65,7 @@ h2 {
 @media (max-width: 991px) {
     .glass{
         width: 100%;
+        height: 45%;
+
     }
 }
